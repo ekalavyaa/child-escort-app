@@ -1,0 +1,9 @@
+{
+  "short_name": "Child delvelopment escort App",
+  "name": "Child delvelopment escort App",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

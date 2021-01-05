@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/child-escort-app/static/css/main.d1f17c81.chunk.css",
-    "main.js": "/child-escort-app/static/js/main.5838cb82.chunk.js",
-    "main.js.map": "/child-escort-app/static/js/main.5838cb82.chunk.js.map",
+    "main.js": "/child-escort-app/static/js/main.4ee7282f.chunk.js",
+    "main.js.map": "/child-escort-app/static/js/main.4ee7282f.chunk.js.map",
     "runtime-main.js": "/child-escort-app/static/js/runtime-main.9a19add4.js",
     "runtime-main.js.map": "/child-escort-app/static/js/runtime-main.9a19add4.js.map",
     "static/js/2.24a561b7.chunk.js": "/child-escort-app/static/js/2.24a561b7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9a19add4.js",
     "static/js/2.24a561b7.chunk.js",
     "static/css/main.d1f17c81.chunk.css",
-    "static/js/main.5838cb82.chunk.js"
+    "static/js/main.4ee7282f.chunk.js"
   ]
 }
